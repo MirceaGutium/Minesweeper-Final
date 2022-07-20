@@ -56,9 +56,6 @@ class ImperiumFlag {
                 if (imperiumflagMap.get(coordinator) == Box.FLAGED)
                     imperiumflagMap.set (coordinator, Box.NOBOMB);
     }
-    {
-        imperiumflag.set == FLAG;
-    }
 
 
 
